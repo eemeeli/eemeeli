@@ -1,6 +1,6 @@
 ##### 👋 Hi, I’m @eemeeli
 ##### 👀 I’m interested in WordPress, Javascript, CSS, React
-##### 🌱 I’m currently learning Next.js, Tailwind
+##### 🌱 I’m currently learning Next.js, ~~Tailwind~~, Svelte, Supabase
 ##### 📫 Reach me at twitter @eemeeli
 
 <!---
